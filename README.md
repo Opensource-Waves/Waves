@@ -32,7 +32,7 @@ npm run dev
 
 ### Docker Container 📦
 
-You can run the Docker container with the following command https://developer.mozilla.org/en-US/docs/Web/Media/Formats/Audio_codecs, replacing 8080 with the port of your choice:
+You can run the Docker container with the following command, replacing 8080 with the port of your choice:
 
 ```bash
 docker run -d -p 8080:8080 ghcr.io/greenestgoat/opensource-waves
@@ -42,7 +42,7 @@ docker run -d -p 8080:8080 ghcr.io/greenestgoat/opensource-waves
 
 ### 📁 Folder Structure
 
-Currently supports any format supported by the html 5 audio player, with transcoding support to be added in future builds.
+Currently supports any format supported by the [html 5 audio player](https://developer.mozilla.org/en-US/docs/Web/Media/Formats/Audio_codecs), with transcoding support to be added in future releases.
 
 #### Template
 
