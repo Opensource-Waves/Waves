@@ -9,7 +9,7 @@
 
 #
 
-<code>my-app/
+<div>my-app/
 ├─ node_modules/
 ├─ public/
 │  ├─ favicon.ico
@@ -21,4 +21,4 @@
 ├─ .gitignore
 ├─ package.json
 ├─ README.md
-</code>
+</div>
