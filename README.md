@@ -3,7 +3,6 @@
 <br/>
 <br/>
 
-
 <div align="center" style="display: flex; justify-content: center; align-items: center;">
   <img class="lo" src='https://github.com/Opensource-Waves/Waves/blob/main/github-logo/logo2.png' style="height: 4rem">
 </div>
