@@ -20,7 +20,7 @@
 
 #
 
-https://github.com/Opensource-Waves/Waves/blob/main/screenshots/new%20ui%20icons.PNG
+<img alt="Screenshot" src="https://github.com/Opensource-Waves/Waves/blob/main/screenshots/new%20ui%20icons.PNG"/>
 
 #
 
