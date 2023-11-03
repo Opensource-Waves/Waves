@@ -20,6 +20,10 @@
 
 #
 
+### 💻 Dependencies
+
+#
+
 ### 🛠️ Development
 
 ```bash
