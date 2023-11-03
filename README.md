@@ -33,11 +33,11 @@ Music Folder/
 #### Example
 
 <pre>
-Music Folder/
-  ├── Blur/
-  │   ├── The Great Escape (1995)/
-  │   │   ├── 01 - Stereotypes.mp3
-  │   │   └── 02 - Country House.mp3
+####Music Folder/
+  ####├── Blur/
+  ####│   ├── The Great Escape (1995)/
+  ####│   │   ├── 01 - Stereotypes.mp3
+  ####│   │   └── 02 - Country House.mp3
   │   └── Modern Life Is Rubbish (1993)/
   │       ├── 01 - For Tomorrow.mp3
   │       └── 02 - Advert.mp3
