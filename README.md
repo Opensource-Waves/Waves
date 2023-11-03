@@ -7,17 +7,18 @@
 <div align="center"><a href='https://ko-fi.com/brick_wall' target='_blank'><img height='30' style='border:0px;height:41px;' src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0' border='0' margin-top="10px" alt='Buy Me a Coffee at ko-fi.com'/></a></div>
 <div align="center">A sleek and minimalistic selfhosted web app for streaming your music library on your local network.</div>
 
-#
+$ ./tree-md .
+# Project tree
 
-Music Folder/
-├── Artist/
-│   ├── album (year)/
-│   │   ├── (artists) - 01 - Song.mp3
-│   │   └── 02 - song.mp3
-│   └── album (year)/
-│       ├── 01 - Song.mp3
-│       └── 02 - song.mp3
-└── Artist/
-    └── album (year)/
-        ├── 01 - Song.mp3
-        └── 02 - song.mp3
+.
+ * [tree-md](./tree-md)
+ * [dir2](./dir2)
+   * [file21.ext](./dir2/file21.ext)
+   * [file22.ext](./dir2/file22.ext)
+   * [file23.ext](./dir2/file23.ext)
+ * [dir1](./dir1)
+   * [file11.ext](./dir1/file11.ext)
+   * [file12.ext](./dir1/file12.ext)
+ * [file_in_root.ext](./file_in_root.ext)
+ * [README.md](./README.md)
+ * [dir3](./dir3)
