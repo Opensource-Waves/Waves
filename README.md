@@ -9,10 +9,22 @@
 
 #
 
-##### Folder Structure
+### Folder Structure
 
-- `project-root`: The root folder of the project.
-- `folder1`, `folder2`, `folder3`: Subfolders within the project.
-- `file1.1`, `file1.2`, `file1.3`: Files within `folder1`.
-- `file2.1`, `file2.2`, `file2.3`: Files within `folder2`.
-- `file3.1`, `file3.2`, `file3.3`: Files within `folder3`.
+<pre>
+<code>
+project-root/
+├── folder1/
+│   ├── file1.1
+│   ├── file1.2
+│   └── file1.3
+├── folder2/
+│   ├── file2.1
+│   ├── file2.2
+│   └── file2.3
+└── folder3/
+    ├── file3.1
+    ├── file3.2
+    └── file3.3
+</code>
+</pre>
