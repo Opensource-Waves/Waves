@@ -30,7 +30,7 @@ npm run dev
 
 #
 
-### Docker Container 📦
+### 📦 Docker Container
 
 You can run the Docker container with the following command, replacing 8080 with the port of your choice:
 
