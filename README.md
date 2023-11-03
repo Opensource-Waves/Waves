@@ -14,6 +14,26 @@
 
 #
 
+### 🛠️ Development
+
+```bash
+git clone https://github.com/style77/newsltr.git
+cd waves
+npm run dev
+```
+
+#
+
+### Docker Container 📦
+
+You can run the Docker container with the following command, replacing 8080 with the port of your choice:
+
+```bash
+docker run -d -p 8080:8080 ghcr.io/opensource-waves/waves
+```
+
+#
+
 ### 📁 Folder Structure
 #### Template
 
@@ -55,5 +75,6 @@ Music Folder/
           └── 02 - Lipgloss.mp3
 </pre>
 
+#
 
 
