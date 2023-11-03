@@ -41,7 +41,7 @@ cd waves
 npm install
 npm run dev
 
-/*compiling*/
+// Compiling
 
 npm run build
 ```
