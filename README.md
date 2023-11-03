@@ -9,16 +9,10 @@
 
 #
 
-<code>my-app/
-├─ node_modules/
-├─ public/
-│  ├─ favicon.ico
-│  ├─ index.html
-│  ├─ robots.txt
-├─ src/
-│  ├─ index.css
-│  ├─ index.js
-├─ .gitignore
-├─ package.json
-├─ README.md
-</code>
+## Folder Structure
+
+- `project-root`: The root folder of the project.
+- `folder1`, `folder2`, `folder3`: Subfolders within the project.
+- `file1.1`, `file1.2`, `file1.3`: Files within `folder1`.
+- `file2.1`, `file2.2`, `file2.3`: Files within `folder2`.
+- `file3.1`, `file3.2`, `file3.3`: Files within `folder3`.
