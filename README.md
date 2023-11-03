@@ -9,8 +9,8 @@
 <a href="https://ko-fi.com/brick_wall">
 <img alt="Support" src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white"/>
 </a>
-<a href="https://hub.docker.com/r/jellyfin/jellyfin">
-<img alt="Docker" src="https://hub.docker.com/repository/docker/greenestgoat/opensource-waves/"/>
+<a href="https://hub.docker.com/repository/docker/greenestgoat/opensource-waves/">
+<img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
 </a>
 <a href="https://discord.gg/HkWFGr4A" Chat on discord>
 <img alt="Chat on Discord" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"/>
