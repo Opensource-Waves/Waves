@@ -25,7 +25,7 @@
 <a href="https://features.jellyfin.org">
 <img alt="Submit Feature Requests" src="https://img.shields.io/badge/fider-vote%20on%20features-success.svg"/>
 </a>
-<a href="https://discord.gg/HkWFGr4A">
+<a href="https://discord.gg/HkWFGr4A" Chat on discord>
 <img alt="Chat on Discord" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
 <a href="https://www.reddit.com/r/jellyfin">
