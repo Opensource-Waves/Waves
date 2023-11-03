@@ -9,7 +9,7 @@
 
 #
 
-## Folder Structure
+##### Folder Structure
 
 - `project-root`: The root folder of the project.
 - `folder1`, `folder2`, `folder3`: Subfolders within the project.
