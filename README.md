@@ -40,6 +40,9 @@ git clone https://github.com/Opensource-Waves/Waves/App/V1/Waves/waves.git
 cd waves
 npm install
 npm run dev
+
+//compiling
+
 npm run build
 ```
 
