@@ -23,7 +23,7 @@
 ### 🛠️ Development
 
 ```bash
-git clone https://github.com/style77/newsltr.git
+git clone https://github.com/Opensource-Waves/Waves
 cd waves
 npm run dev
 ```
