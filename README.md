@@ -20,7 +20,7 @@
 
 #
 
-### Development 🛠️
+### 🛠️ Development
 
 ```bash
 git clone https://github.com/Opensource-Waves/Waves
@@ -30,7 +30,7 @@ npm run dev
 
 #
 
-### Docker Container 📦
+### 📦 Docker Container
 
 You can run the Docker container with the following command, replacing 8080 with the port of your choice:
 
@@ -40,7 +40,7 @@ docker run -d -p 8080:8080 ghcr.io/greenestgoat/opensource-waves
 
 #
 
-### Folder Structure 📁
+### 📁 Folder Structure
 
 Currently supports any format supported by the [html 5 audio player](https://developer.mozilla.org/en-US/docs/Web/Media/Formats/Audio_codecs), with transcoding support to be added in future releases.
 
