@@ -8,3 +8,16 @@
 <div align="center">A sleek and minimalistic selfhosted web app for streaming your music library on your local network.</div>
 
 #
+
+Music Folder/
+├── Artist/
+│   ├── album (year)/
+│   │   ├── (artists) - 01 - Song.mp3
+│   │   └── 02 - song.mp3
+│   └── album (year)/
+│       ├── 01 - Song.mp3
+│       └── 02 - song.mp3
+└── Artist/
+    └── album (year)/
+        ├── 01 - Song.mp3
+        └── 02 - song.mp3
