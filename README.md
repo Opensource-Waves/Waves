@@ -10,7 +10,6 @@
 #
 
 ### 📁 Folder Structure
-#
 #### Template
 
 <pre>
