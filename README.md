@@ -35,6 +35,9 @@ docker run -d -p 8080:8080 ghcr.io/opensource-waves/waves
 #
 
 ### 📁 Folder Structure
+
+Currently supports any format supported by the html 5 audio player, with transcoding support to be added in future builds.
+
 #### Template
 
 <pre>
