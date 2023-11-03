@@ -10,7 +10,6 @@
 #
 
 ### Folder Structure
-
 <pre>
 <code>
 project-root/
