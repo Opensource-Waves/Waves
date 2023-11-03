@@ -20,6 +20,10 @@
 
 #
 
+https://github.com/Opensource-Waves/Waves/blob/main/screenshots/new%20ui%20icons.PNG
+
+#
+
 ### 💻 Dependencies
 <img alt="Vite" src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white"/>
 <img alt="Vue" src="https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D"/>
