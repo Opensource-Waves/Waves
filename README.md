@@ -3,9 +3,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/jellyfin/jellyfin">
-<img alt="GPL 2.0 License" src="https://img.shields.io/github/license/jellyfin/jellyfin.svg"/>
-</a>
+
 <a href="https://ko-fi.com/brick_wall">
 <img alt="Support" src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white"/>
 </a>
