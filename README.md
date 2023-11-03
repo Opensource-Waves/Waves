@@ -1,5 +1,5 @@
 <p align="center">
-<img alt="Logo Banner" src="https://github.com/Opensource-Waves/Waves/blob/main/github-logo/Frame%205%20(1).png"/>
+<img alt="Logo Banner" src="https://github.com/Opensource-Waves/Waves/blob/main/github-logo/Frame%205%20(1).png? sanitize"/>
 <br/>
 <br/>
 
