@@ -12,7 +12,6 @@
 ### 📁 Folder Structure
 
 <pre>
-<code>
 project-root/
 ├── folder1/
 │   ├── file1.1
@@ -26,5 +25,4 @@ project-root/
     ├── file3.1
     ├── file3.2
     └── file3.3
-</code>
 </pre>
