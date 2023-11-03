@@ -12,7 +12,6 @@
 <a href="https://hub.docker.com/r/jellyfin/jellyfin">
 <img alt="Docker Pull Count" src="https://img.shields.io/docker/pulls/jellyfin/jellyfin.svg"/>
 </a>
-<br/>
 <a href="https://discord.gg/HkWFGr4A" Chat on discord>
 <img alt="Chat on Discord" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
