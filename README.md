@@ -70,13 +70,16 @@ Music Folder/
   │   ├── Album (Year)/
   │   │   ├── 01 - Song.mp3
   │   │   └── 02 - Song.mp3
+  │   │
   │   └── Album (Year)/
   │       ├── 01 - song.mp3
   │       └── 02 - song.mp3
+  │
   └── Artist/
       ├── Album (Year)/
       │   ├── 01 - Song.mp3
       │   └── 02 - Song.mp3
+      │
       └── Album (Year)/
           ├── 01 - song.mp3
           └── 02 - song.mp3
@@ -90,13 +93,16 @@ Music Folder/
   │   ├── The Great Escape (1995)/
   │   │   ├── 01 - Stereotypes.mp3
   │   │   └── 02 - Country House.mp3
+  │   │
   │   └── Modern Life Is Rubbish (1993)/
   │       ├── 01 - For Tomorrow.mp3
   │       └── 02 - Advert.mp3
+  │
   └── Pulp/
       ├── Different Class (1995)/
       │   ├── 01 - Mis-Shapes.mp3
       │   └── 02 - Pencil Skirt.mp3
+      │
       └── His 'n' Hers (1994)/
           ├── 01 - Joyriders.mp3
           └── 02 - Lipgloss.mp3
