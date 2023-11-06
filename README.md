@@ -60,7 +60,7 @@ docker run -d -p 8080:8080 ghcr.io/greenestgoat/opensource-waves
 
 ### 📁 Folder Structure
 
-Currently supports any format supported by the [html 5 audio player](https://developer.mozilla.org/en-US/docs/Web/Media/Formats/Audio_codecs), with transcoding support to be added in future releases.
+Currently supports any audio codec or format supported by the [html 5 audio player](https://developer.mozilla.org/en-US/docs/Web/Media/Formats/Audio_codecs), with transcoding support to be added in future releases.
 
 #### Template
 
