@@ -53,7 +53,7 @@ npm run build
 You can run the Docker container with the following command, replacing 8080 with the port of your choice:
 
 ```bash
-docker run -d -p 8080:8080 ghcr.io/greenestgoat/opensource-waves
+docker run -d -p 8080:80 ghcr.io/greenestgoat/opensource-waves
 ```
 
 #
